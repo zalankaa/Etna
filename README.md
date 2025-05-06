@@ -1,0 +1,2 @@
+# Etna
+gyakorlati feladat
