@@ -2,10 +2,52 @@
 
 main{
     font-family: "Merriweather", serif;
+    background-color: beige;
 }
 
-header{
+header {
     font-family: "Karla", sans-serif;
     font-weight: 700;
     font-size: 2.5rem;
+    background-color: burlywood;
+}
+
+#kep1 {
+    float: right;
+    padding-left: 20px;
+}
+
+#kep2 {
+    float: right;
+    padding-left: 20px;
+}
+
+#kep3 {
+    float: right;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+#kep4 {
+    float: right;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+#kep5 {
+    float: right;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+#kep6 {
+    float: right;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+#kep7 {
+    float: right;
+    padding-left: 20px;
+    padding-top: 20px;
 }
